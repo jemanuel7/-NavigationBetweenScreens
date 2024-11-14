@@ -6,4 +6,6 @@ The order details get displayed on an order summary screen and can be shared to 
 send the order.
 
 
-Repositorio que hace referencia a la navegación entre pantallas
+Repositorio que hace referencia a la navegaciÃ³n entre pantallas
+
+![Captura3](https://github.com/user-attachments/assets/cc8d2f7d-b21a-462d-910b-7495dfa09af0)
